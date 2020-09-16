@@ -6,6 +6,8 @@ Below is what you can do with this program:
 
 This crawler could fail due to updates on instagram’s website. If you encounter any problems, please contact me.
 
+
+
 ## Install
 1. Make sure you have Chrome browser installed.
 2. Download [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) and put it into bin folder: `./inscrawler/bin/chromedriver`
